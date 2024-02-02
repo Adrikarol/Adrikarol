@@ -3,9 +3,13 @@
   <img decoding="async" src="https://github.com/Adrikarol/Adrikarol/blob/main/banner_profile.jpg" width="800"/>
 </div>
 
-<div id="badges" align="center">
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianamuñozr/)
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianamuñozr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 <h1>
   Hola soy Adriana. ¡Encantada de conocerte!
