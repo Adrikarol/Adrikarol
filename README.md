@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Adrikarol/Adrikarol/blob/main/banner_profile.jpg" width="800"/>
+</div>
+
 <h1 align="center">Hola 👋, soy Adriana Muñoz</h1>
 <h3 align="center">Analista y científica de datos</h3>
 
