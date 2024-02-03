@@ -40,39 +40,26 @@
     <img decoding="async" src="https://img.shields.io/badge/scipy-green?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-
-
-
   
-<!-- Machine Learning -->
+
+
   </a>
     <img decoding="async" src="https://img.shields.io/badge/XGBoost-5391FE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
     <img decoding="async" src="https://img.shields.io/badge/LightGBM-00AEEF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="LightGBM"/>
     <img decoding="async" src="https://img.shields.io/badge/CatBoost-2F74C0?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"/>
 
-    <!-- Redes Neuronales -->
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
     <img decoding="async" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img decoding="async" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 
-    <!-- Series Temporales -->
-  </a>
-  <img decoding="async" src="https://img.shields.io/badge/Series_Temporales-0078D6?style=for-the-badge&logo=timescale&logoColor=white" alt="Series Temporales"/>
+  
 
-    <!-- Pruebas A/B -->
-  </a>  <img decoding="async" src="https://img.shields.io/badge/Pruebas_A_B-008272?style=for-the-badge&logo=optimizely&logoColor=white" alt="Pruebas A/B"/>
 
-    <!-- NLP -->
+
   </a> <img decoding="async" src="https://img.shields.io/badge/NLTK-50C878?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
     <img decoding="async" src="https://img.shields.io/badge/Spacy-09AFC7?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy"/>
     <img decoding="async" src="https://img.shields.io/badge/BERT-F9A03C?style=for-the-badge&logo=transformers&logoColor=white" alt="BERT"/>
 
-    <!-- Minería Web -->
-  </a>  <img decoding="async" src="https://img.shields.io/badge/Miner%C3%ADa_Web-3776AB?style=for-the-badge&logo=webmin&logoColor=white" alt="Minería Web"/>
-
-    <!-- Seaborn -->
    </a> <img decoding="async" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </div>
