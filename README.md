@@ -26,4 +26,50 @@
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/scipy-green?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+
+
+
+  
+<!-- Machine Learning -->
+    <img decoding="async" src="https://img.shields.io/badge/XGBoost-5391FE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+    <img decoding="async" src="https://img.shields.io/badge/LightGBM-00AEEF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="LightGBM"/>
+    <img decoding="async" src="https://img.shields.io/badge/CatBoost-2F74C0?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"/>
+
+    <!-- Redes Neuronales -->
+    <img decoding="async" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    <img decoding="async" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img decoding="async" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+
+    <!-- Series Temporales -->
+    <img decoding="async" src="https://img.shields.io/badge/Series_Temporales-0078D6?style=for-the-badge&logo=timescale&logoColor=white" alt="Series Temporales"/>
+
+    <!-- Pruebas A/B -->
+    <img decoding="async" src="https://img.shields.io/badge/Pruebas_A_B-008272?style=for-the-badge&logo=optimizely&logoColor=white" alt="Pruebas A/B"/>
+
+    <!-- NLP -->
+    <img decoding="async" src="https://img.shields.io/badge/NLTK-50C878?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
+    <img decoding="async" src="https://img.shields.io/badge/Spacy-09AFC7?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy"/>
+    <img decoding="async" src="https://img.shields.io/badge/BERT-F9A03C?style=for-the-badge&logo=transformers&logoColor=white" alt="BERT"/>
+
+    <!-- Minería Web -->
+    <img decoding="async" src="https://img.shields.io/badge/Miner%C3%ADa_Web-3776AB?style=for-the-badge&logo=webmin&logoColor=white" alt="Minería Web"/>
+
+    <!-- Seaborn -->
+    <img decoding="async" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</div>
