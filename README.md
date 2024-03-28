@@ -44,5 +44,5 @@
     <img decoding="async" src="https://img.shields.io/badge/Spacy-09AFC7?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy"/>
     <img decoding="async" src="https://img.shields.io/badge/BERT-F9A03C?style=for-the-badge&logo=transformers&logoColor=white" alt="BERT"/>
     <img decoding="async" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-    <img decoding="async" src="https://img.shields.io/badge/AWS-blue?logo=AMAZON"/>
+    <img decoding="async" src="https://img.shields.io/badge/AWS-blue?style=for-the-badge&logo=AMAZON"/>
 </div>
